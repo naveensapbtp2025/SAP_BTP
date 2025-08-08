@@ -3,5 +3,6 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Button id="id1" press="onsave" text="save"></Button>
+    <Text id="textid1" text="Welcome Peers"></Text>
     </Page>
 </mvc:View>
